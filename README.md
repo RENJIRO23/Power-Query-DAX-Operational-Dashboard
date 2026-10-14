@@ -1,4 +1,5 @@
 # Power-Query-DAX-Operational-Dashboard
+Link PowerBI: https://app.powerbi.com/links/J6ADxxYeHG?ctid=3485b963-82ba-4a6f-810f-b5cc226ff898&pbi_source=linkShare
 # About This Project
 Project ini melakukan preprocessing data menggunakan Power Query lalu membuat visualisasi melalui dashboard PowerBI
 # Business Questions
